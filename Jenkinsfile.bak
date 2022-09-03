@@ -6,17 +6,17 @@ pipeline {
 		      echo "Building application"
 			  }
 			}
-        stage ("Test") {
+        stage ("Build") {
           steps {
 		      echo "Building application"
 			  }
 			}	
-		stage ("Deploy") {
+		stage ("Build") {
           steps {
 		      echo "Building application"
 			  }
 			}	
-		stage ("Monitor") {
+		stage ("Build") {
           steps {
 		      echo "Building application"
 			  }
